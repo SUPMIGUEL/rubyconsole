@@ -1,2 +1,0 @@
-# rubyconsole
-Ruby Console Exercises 
